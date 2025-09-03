@@ -5,7 +5,7 @@ A DDoS attack makes multiple requests per second to a website, which can cause t
 ## How to use? 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cedricore/DDos-attack-via-python.git
+   git clone https://github.com/cedricore/DDos-attack-via-python..git
 2. Enter the project folder:
    ```bash
    cd Ddos-attack-via-python
